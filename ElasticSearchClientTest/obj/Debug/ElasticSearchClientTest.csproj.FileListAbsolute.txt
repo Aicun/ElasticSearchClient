@@ -1,0 +1,17 @@
+C:\Work\C#samplecode\ElasticSearchClient\ElasticSearchClientTest\bin\Debug\ElasticSearchClientTest.dll
+C:\Work\C#samplecode\ElasticSearchClient\ElasticSearchClientTest\bin\Debug\ElasticSearchClientTest.pdb
+C:\Work\C#samplecode\ElasticSearchClient\ElasticSearchClientTest\bin\Debug\nunit.framework.dll
+C:\Work\C#samplecode\ElasticSearchClient\ElasticSearchClientTest\bin\Debug\nunit.framework.xml
+C:\Work\C#samplecode\ElasticSearchClient\ElasticSearchClientTest\obj\Debug\ElasticSearchClientTest.csprojResolveAssemblyReference.cache
+C:\Work\C#samplecode\ElasticSearchClient\ElasticSearchClientTest\obj\Debug\ElasticSearchClientTest.csproj.CoreCompileInputs.cache
+C:\Work\C#samplecode\ElasticSearchClient\ElasticSearchClientTest\obj\Debug\ElasticSearchClientTest.csproj.CopyComplete
+C:\Work\C#samplecode\ElasticSearchClient\ElasticSearchClientTest\obj\Debug\ElasticSearchClientTest.dll
+C:\Work\C#samplecode\ElasticSearchClient\ElasticSearchClientTest\obj\Debug\ElasticSearchClientTest.pdb
+C:\Work\C#samplecode\ElasticSearchClient\ElasticSearchClientTest\bin\Debug\Elasticsearch.Net.dll
+C:\Work\C#samplecode\ElasticSearchClient\ElasticSearchClientTest\bin\Debug\Nest.dll
+C:\Work\C#samplecode\ElasticSearchClient\ElasticSearchClientTest\bin\Debug\Elasticsearch.Net.xml
+C:\Work\C#samplecode\ElasticSearchClient\ElasticSearchClientTest\bin\Debug\Nest.xml
+C:\Work\C#samplecode\ElasticSearchClient\ElasticSearchClientTest\bin\Debug\Nest.JsonNetSerializer.dll
+C:\Work\C#samplecode\ElasticSearchClient\ElasticSearchClientTest\bin\Debug\Newtonsoft.Json.dll
+C:\Work\C#samplecode\ElasticSearchClient\ElasticSearchClientTest\bin\Debug\Nest.JsonNetSerializer.xml
+C:\Work\C#samplecode\ElasticSearchClient\ElasticSearchClientTest\bin\Debug\Newtonsoft.Json.xml
